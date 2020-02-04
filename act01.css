@@ -1,0 +1,25 @@
+body{
+    margin-left: 350px;
+    margin-right: 350px;
+    overflow: auto;
+}
+#main{
+    border: 4px;
+    border-style: solid;
+    border-color: black;
+    padding: 3%;
+    display: flex;
+    min-width: 850px;
+    min-height: 100px;
+    justify-content: center;
+}
+#logo{
+    width: 33%;
+    margin: .2rem;
+}
+h2{
+    text-transform: capitalize;
+}
+#boxtext{
+    margin-left: 2em;
+}
